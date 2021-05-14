@@ -1,0 +1,6 @@
+/home/basuki/Projects/currecy_converter/currecy_converter/bin/Debug/currecy_converter.exe
+/home/basuki/Projects/currecy_converter/currecy_converter/bin/Debug/currecy_converter.pdb
+/home/basuki/Projects/currecy_converter/currecy_converter/obj/x86/Debug/currecy_converter.csprojAssemblyReference.cache
+/home/basuki/Projects/currecy_converter/currecy_converter/obj/x86/Debug/currecy_converter.csproj.CoreCompileInputs.cache
+/home/basuki/Projects/currecy_converter/currecy_converter/obj/x86/Debug/currecy_converter.exe
+/home/basuki/Projects/currecy_converter/currecy_converter/obj/x86/Debug/currecy_converter.pdb
